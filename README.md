@@ -1,4 +1,4 @@
-# py-project
+# calculator.py
 py project 
 def calc (x,y,op):
     if op == '1':
